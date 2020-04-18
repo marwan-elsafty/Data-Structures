@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1521627752 source:g:\college\ssp 4\ds1\assignments\solutions\#2\round robin'''\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1521627752 g:\college\ssp 4\ds1\assignments\solutions\#2\round robin'''\queue.h
+
+1521791570 source:g:\college\ssp 4\ds1\assignments\solutions\#2\round robin'''\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	<string.h>
+
+1521884299 source:g:\college\ssp 4\ds1\assignments\solutions\#2\round robin''' final\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1521883677 g:\college\ssp 4\ds1\assignments\solutions\#2\round robin''' final\queue.h
+
+1521883643 source:g:\college\ssp 4\ds1\assignments\solutions\#2\round robin''' final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	<string.h>
+
+1521884426 source:g:\college\ssp 4\ds1\assignments\solutions\assignment #2\round robin c code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	<string.h>
+
+1521883677 g:\college\ssp 4\ds1\assignments\solutions\assignment #2\round robin c code\queue.h
+
+1521884299 source:g:\college\ssp 4\ds1\assignments\solutions\assignment #2\round robin c code\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1521884426 source:g:\college\ssp 4\ds1\assignments\solutions\#2\assignment #2\round robin c code\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+	<string.h>
+
+1521883677 g:\college\ssp 4\ds1\assignments\solutions\#2\assignment #2\round robin c code\queue.h
+
+1521884299 source:g:\college\ssp 4\ds1\assignments\solutions\#2\assignment #2\round robin c code\queue.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
