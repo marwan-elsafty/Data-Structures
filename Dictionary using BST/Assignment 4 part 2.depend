@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1527032706 source:g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4 part 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
+1527030705 g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4 part 2\bsttree.h
+	<string.h>
+
+1527032331 source:g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4 part 2\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bstTree.h"
+
+1527032859 source:g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4\bsttree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bstTree.h"
+
+1527030705 g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4\bsttree.h
+	<string.h>
+
+1527190293 source:g:\college\ssp 4\ds1\assignments\solutions\#4\assignment 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bstTree.h"
+
