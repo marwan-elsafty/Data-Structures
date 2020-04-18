@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524852933 source:g:\college\ssp 4\ds1\assignments\solutions\#3\assignment#3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1525607418 source:g:\college\ssp 4\ds1\assignments\solutions\#3\assignment#3 linear probing\main.c
+	<stdio.h>
+	<stdlib.h>
+
