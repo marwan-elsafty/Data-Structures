@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1520612825 source:g:\college\ssp 4\ds1\assignment 1\part2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	<string.h>
+
+1519836333 g:\college\ssp 4\ds1\assignment 1\implementation\stack.h
+
+1519836386 source:g:\college\ssp 4\ds1\assignment 1\implementation\stack.c
+	<stdio.h>
+	"Stack.h"
+	<stdlib.h>
+
+1520109035 g:\college\ssp 4\ds1\assignment 1\part2\stack.h
+
+1520109035 source:g:\college\ssp 4\ds1\assignment 1\part2\stack.c
+	<stdio.h>
+	"Stack.h"
+	<stdlib.h>
+
+1520894707 source:g:\college\ssp 4\ds1\assignment 1\full assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	<string.h>
+
+1520894780 g:\college\ssp 4\ds1\assignment 1\full assignment\stack.h
+
+1520894780 source:g:\college\ssp 4\ds1\assignment 1\full assignment\stack.c
+	<stdio.h>
+	"Stack.h"
+	<stdlib.h>
+
+1521881433 source:g:\college\ssp 4\ds1\assignments\solutions\#1\assignment#1\full assignment\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+	<string.h>
+
+1520894780 g:\college\ssp 4\ds1\assignments\solutions\#1\assignment#1\full assignment\stack.h
+
+1520894780 source:g:\college\ssp 4\ds1\assignments\solutions\#1\assignment#1\full assignment\stack.c
+	<stdio.h>
+	"Stack.h"
+	<stdlib.h>
+
